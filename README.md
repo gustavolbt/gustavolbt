@@ -2,7 +2,7 @@
 Aqui é o Gustavo Teló, sou aluno de Ciência de Dados, apaixonado por transformar dados em transformação. 💻
 
 ### Expertise 🚀
-Formado em Redes de computadores, pós graduado em Engenharia de Software e cursando pós em Ciência de Dados.
+Formado em Redes de computadores, pós graduado em Engenharia de Software e cursando pós graduação em Ciência de Dados.
 
 ### Tech Stacks
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
